@@ -1,7 +1,7 @@
 <h1 align="center">ddos - DDoS Attack Script With 36 Plus Methods</h1>
 
 <p align="center">
-<a href="#"><img title="Made in Viet Nam" src="https://img.shields.io/badge/MADE%20IN-INDIA-green?colorA=%23f5690c&colorB=%23035c00&style=for-the-badge"></a>
+<a href="#"><img title="Made in Viet Nam" src="https://img.shields.io/badge/MADE%20IN-VietNam-green?colorA=%23f5690c&colorB=%23035c00&style=for-the-badge"></a>
 </p
 
 <em><h5 align="center">(Pham Nhat Quang)</h5></em>
