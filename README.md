@@ -80,9 +80,9 @@
 
 ## Installation :
 
-`git clone https://github.com/the-deepnet/ddos.git`
+`git clone https://github.com/NQP1332009/Test.git`
 
-`cd ddos`
+`cd DeepNet DDoS`
 
 `pip3 install -r requirements.txt`
 
